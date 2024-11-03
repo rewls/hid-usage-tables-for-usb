@@ -28,3 +28,12 @@
 |...|||||||
 |2C|Keyboard Spacebar|Sel|✓|✓|✓|4/101/104|
 |...|||||||
+|E0|Keyboard LeftControl|DV|✓|✓|✓|4/101/104|
+|E1|Keyboard LeftShift|DV|✓|✓|✓|4/101/104|
+|E2|Keyboard LeftAlt|DV|✓|✓|✓|4/101/104|
+|E3|Keyboard Left GUI|DV|✓|✓|✓|104|
+|E4|Keyboard RightControl|DV|✓|✓|✓|101/104|
+|E5|Keyboard RightShift|DV|✓|✓|✓|4/101/104|
+|E6|Keyboard RightAlt|DV|✓|✓|✓|101/104|
+|E7|Keyboard Right GUI|DV|✓|✓|✓|104|
+|E8-FFFF|*Reserved*|||||||
